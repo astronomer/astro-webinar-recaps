@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  # repo: astronomer/astro-webinar-recaps
+  branch: main
+
+media_folder: /assets
+public_folder: ../assets
+
+collections:
+  - name: Webinar Recaps
+    label: Webinar Recaps
+    folder: posts
+    slug: '{{slug}}'
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: description, label: Description, widget: string }
+      - { name: heroImage, label: Hero Image Path, default: ../assets/ }
+      - { name: hostNames, label: Host Name(s), widget: list }
+      - { name: date, label: Date, widget: datetime }
+      - { name: body, label: Body, widget: markdown }
