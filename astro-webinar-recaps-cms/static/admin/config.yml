@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  # repo: astronomer/astro-webinar-recaps
+  name: github
+  repo: astronomer/astro-webinar-recaps
   branch: main
 
 media_folder: /assets
