@@ -531,6 +531,11 @@ rc@~1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-netlify-identity-widget@^0.2.7:
+  version "0.2.7"
+  resolved "https://registry.yarnpkg.com/react-netlify-identity-widget/-/react-netlify-identity-widget-0.2.7.tgz#3cb40b122cd3b4cbf8f18a250b2cad471cd5e5cd"
+  integrity sha512-V3Bm1ftA6F8z4qDGDQ001t6EuVDuUYbkFmNePF27ai/qKIqIQAsu1iQZnx14bkEokXj4t2nBJcJmzRdNxp8CZQ==
+
 readable-stream@^2.2.2:
   version "2.3.7"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.3.7.tgz#1eca1cf711aef814c04f62252a36a62f6cb23b57"
