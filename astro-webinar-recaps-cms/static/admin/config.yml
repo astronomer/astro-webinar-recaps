@@ -16,6 +16,6 @@ collections:
       - { name: title, label: Title }
       - { name: description, label: Description, widget: string }
       - { name: heroImage, label: Hero Image Path, default: ../assets/ }
-      - { name: hostNames, label: Host Name(s), widget: list }
+      # - { name: hostNames, label: Host Name(s), widget: list }
       - { name: date, label: Date, widget: datetime }
       - { name: body, label: Body, widget: markdown }
