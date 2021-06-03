@@ -3,7 +3,7 @@ slug: test-recap
 title: A Great Expectations Provider for Apache Airflow
 description: We're pleased to announce an official integration that allows users
   to leverage Great Expectations natively in their DAGs.
-heroImagePath: ../assets/ge-blog.jpg
+heroImagePath: ../assets/dynamicDagsMeta.png
 authors:
   - Brandon Medina
 date: 2020-11-23T00:00:00.000Z
