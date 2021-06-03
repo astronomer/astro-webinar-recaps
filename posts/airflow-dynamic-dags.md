@@ -1,8 +1,7 @@
 ---
 slug: airflow-dynamic-dags
-title: A Great Expectations Provider for Apache Airflow
-description: We're pleased to announce an official integration that allows users
-  to leverage Great Expectations natively in their DAGs.
+title: Dynamically Generating DAGs in Airflow
+description: Learn the different ways you can dynamically generate DAGs in Airflow using Python
 heroImagePath: ../assets/dynamicDagsMeta.png
 authors:
   - Brandon Medina
@@ -48,6 +47,7 @@ Dynamically generating DAGs can be helpful when you have DAGs that follow a simi
 * Have only a parameter changing between DAGs
 * Have DAGs that are dependent on the changing structure of a source system
 * Want to institute standards within DAGs across your team or organization
+
 ## Ways to Dynamically Generate DAGs: Single File
 Create a Python script that lives in your DAG_FOLDER that generates DAG objects.
 
