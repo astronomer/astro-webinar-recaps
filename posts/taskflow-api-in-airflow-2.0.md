@@ -3,7 +3,7 @@ slug: taskflow-api-in-airflow-2-0
 title: TaskFlow API in Airflow 2.0
 description: Learn how the TaskFlow API in Airflow 2.0 enables a better DAG
   authoring experience.
-heroImagePath: ../assets/taskflowapi.png
+heroImagePath: ../assets/taskflowApiMeta.png
 authors:
   - Eric Griffing
   - Brandon Medina

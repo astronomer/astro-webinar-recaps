@@ -3,7 +3,7 @@ slug: airflow-providers
 title: Airflow Providers
 description: With the introduction of Airflow 2.0, providers are now delivered
   as separate but connected Python packages.
-heroImagePath: ../assets/providers.png
+heroImagePath: ../assets/providersMeta.png
 authors:
   - Eric Griffing
   - Brandon Medina
@@ -11,7 +11,7 @@ date: 2021-04-06T20:23:50.045Z
 ---
 
 <!-- markdownlint-disable MD033 -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEEn_dutW8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://fast.wistia.net/embed/iframe/brvfkmikra" title="[Webinar Recap] Airflow 2.0 Providers Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="100%" height="450"></iframe>
 
 ## Airflow Provider Framework
 
@@ -29,7 +29,7 @@ In Airflow 2.0, Providers are decoupled from core Airflow releases:
 
 ## The Astronomer Registry
 
-![Astronomer Registry](../assets/registry-1.png)
+![Astronomer Registry](../assets/providers-1.png)
 
 Recently we announced [The Astronomer Registry](http://registry.astronomer.io/): a discovery hub for Airflow providers designed to bridge the gap between the Airflow community and the broader data ecosystem.
 
