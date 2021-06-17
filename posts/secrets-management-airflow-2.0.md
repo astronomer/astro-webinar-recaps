@@ -51,7 +51,6 @@ To get started check out our webinar below on the best practices for Secrets Man
 
 ![Connections](../assets/secrets-management-2.png)
 
-\---
 
 ![Airflow CLI Command](../assets/secrets-management-3.png)
 
