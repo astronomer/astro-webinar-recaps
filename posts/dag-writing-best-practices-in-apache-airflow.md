@@ -1,10 +1,11 @@
 ---
-title: DAG Writing Best Practices in Apache Airflow
+title: Webinar Recap - DAG Writing Best Practices in Apache Airflow
 description: "Learn the best practices for writing DAGs in Apache Airflow with a repo of example DAGs that you can run with the Astro CLI."
 slug: "dag-writing-best-practices-in-apache-airflow"
 heroImagePath: ../assets/dag-best-practices.png
 authors:
   - Eric Griffing
+  - Brandon Medina
 date: 2021-02-23T19:55:15.051Z
 ---
 

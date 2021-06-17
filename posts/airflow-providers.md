@@ -1,8 +1,7 @@
 ---
 slug: airflow-providers
-title: Airflow Providers
-description: With the introduction of Airflow 2.0, providers are now delivered
-  as separate but connected Python packages.
+title: Webinar Recap - Airflow Providers
+description: Learn everything about Airflow 2.0 providers including what defines a provider, how to create your own provider, and customizing provider packages.
 heroImagePath: ../assets/providersMeta.png
 authors:
   - Eric Griffing
