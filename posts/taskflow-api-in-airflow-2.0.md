@@ -10,8 +10,7 @@ authors:
 date: 2021-03-23T17:58:40.803Z
 ---
 <!-- markdownlint-disable MD033 -->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DljJg_lXBYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://fast.wistia.net/embed/iframe/2wizup9mxd" title="[Webinar Recap] TaskFlow API in Airflow 2.0 Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="100%" height="450"></iframe>
 
 [Here](https://www.notion.so/TaskFlow-API-The-New-Way-of-Creating-DAGs-b1b9dce5bd664fa084c6601741551f14) you will find the code used in the above webinar and instructions to setup your own Xcom backend!
 
@@ -31,9 +30,9 @@ TaskFlow API Functionality Includes:
 * A task decorator that automatically creates PythonOperator tasks from Python functions and handles variable passing
 * Support for Custom XCom Backends
 
-![Xcom Prior](../assets/xcom.jpg)
+![Xcom Prior](../assets/taskflow-api-1.jpg)
 
-![Xcom with TaskFlow API](../assets/xcomwithtaskflow.jpg)
+![Xcom with TaskFlow API](../assets/taskflow-api-2.jpg)
 
 ## Decorators
 
@@ -41,7 +40,7 @@ TaskFlow API Functionality Includes:
 
 **DAG decorator** allows users to instantiate the DAG without using a context manager.
 
-![Decorators](../assets/decorators.png)
+![Decorators](../assets/taskflow-api-3.png)
 
 ## Custom Xcom Backends
 
