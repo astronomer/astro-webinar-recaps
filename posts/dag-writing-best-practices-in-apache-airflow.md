@@ -15,7 +15,7 @@ We want to share the best practices with you when writing DAGs with Apache Airfl
 To get started, you can use these [example DAGs](https://github.com/astronomer/webinar-dag-writing-best-practices). We cover exactly how to use these example DAGs and best practices in the video below. 
 
 <!-- markdownlint-disable MD033 -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HvjnLCQygO4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://fast.wistia.net/embed/iframe/2q87t3l5hs" title="Dynamic Dags Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen msallowfullscreen width="100%" height="450"></iframe>
 
 ## High Level Best Practices When Writing DAGs 
 
