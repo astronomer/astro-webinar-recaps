@@ -25,7 +25,8 @@ In today’s webinar, we’re focusing on the Snowflake provider.
 ## Apache Airflow walkthrough - the UI
 
 You should have Apache Airflow installed locally on your computer for this demo. To do that go to the [Astronomer CLI](https://www.astronomer.io/docs/cloud/stable/develop/cli-quickstart). It’s the easiest way to get Airflow up and running. 
-Here is the repo with supporting code examples.
+Here is the [repo with supporting code examples](https://github.com/astronomer/intro-to-airflow-webinar).
+
 Once you have Apache Airflow installed, go to the Astronomer CLI and type `astro dev init` to initialize a project:
 
 ![elt-snowflake-n](../assets/elt-snowflake-n.jpg)
@@ -61,7 +62,7 @@ Calendar View - shows all your DAG runs and the status layout in the calendar.
 ![elt-snowflake-n](../assets/elt-snowflake-n.jpg)
 
 ETL with Snowflake
-You can find and install the Snowflake provider from the Astronomer Registry.
+You can find and install the Snowflake provider from the [Astronomer Registry](https://registry.astronomer.io/).
 For the purpose of the webinar we’re going to use the `covid_data_s3_to_snowflake` DAG.
 
 ![elt-snowflake-n](../assets/elt-snowflake-n.jpg)
