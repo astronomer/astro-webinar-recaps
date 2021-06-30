@@ -2,7 +2,7 @@
 slug: intro-airflow-for-etl-with-snowflake
 title: Intro to Airflow for ETL With Snowflake
 description: Learn how to implement ETL pipelines as Airflow DAGs using Snowflake
-heroImagePath: ../assets/dynamicDagsMeta.png
+heroImagePath: ../assets/airflowEtlSnowflakeMeta.png
 authors:
   - Brandon Medina
   - Eric Griffing
