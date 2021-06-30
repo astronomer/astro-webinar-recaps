@@ -29,11 +29,11 @@ Here is the [repo with supporting code examples](https://github.com/astronomer/i
 
 Once you have Apache Airflow installed, go to the Astronomer CLI and type `astro dev init` to initialize a project:
 
-![elt-snowflake-n](../assets/elt-snowflake-n.jpg)
+![elt-snowflake-2](../assets/elt-snowflake-2.jpg)
 
 Now you have a docker file. Type `astro dev start` which is going to spin up a couple of containers.
 
-![elt-snowflake-n](../assets/elt-snowflake-n.jpg)
+![elt-snowflake-3](../assets/elt-snowflake-4.jpg)
 
 By typing `docker ps` you should see you have the containers running:
 
